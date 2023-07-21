@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 # import seaborn package
 import seaborn as sns
 
@@ -36,10 +30,4 @@ sns.despine()
 
 # show the matplotlib line graph
 plt.show()
-
-
-# In[ ]:
-
-
-
 
