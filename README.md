@@ -6,4 +6,4 @@ Within this simple programme I created a Matplotlib Line chart of the Bank of En
 
 Thank you.
 
-Paul
+Emma
